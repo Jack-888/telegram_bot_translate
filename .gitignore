@@ -1,1 +1,3 @@
 .idea/
+.bundle/
+api_key.rb
